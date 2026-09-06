@@ -2,12 +2,14 @@
 
 <h2>A quick story</h2>
 <p>
-  A few weeks ago I was fiddling around with a bunch of Linux distro
-  installed on my external SSD (namely: Ubuntu, Debian and Fedora), 
-  each of the distro's partition is shared across with other distro on the single SSD (multi-boot),
-  which I tried out on my main and test laptop, but it's for testing or experiment purpose only, 
-  so I reverted back to Windows 11. The problem is, the old boot entries still shows up in the boot menu.
+  A few weeks ago I was fiddling around with multi-distro Linux installed on my external SSD 
+  (namely: Ubuntu, Debian and Fedora), each of them is shared across with other distro on 
+  the single SSD (multi-boot), which I tried out on my main and test laptop, 
+  but it's for testing or experiment purpose only, so I reverted back to Windows 11. 
+  The problem is, the old boot entries still shows up in the boot menu.
 </p>
+
+
 
 <h2>Why it happens?</h2>
 <p>
@@ -16,6 +18,8 @@
   operating system or format a drive, the files are removed, but the motherboard's 
   pointer to those files remains saved in the system memory.
 </p>
+
+
 
 <h2>What should we do?</h2>
 <p>
@@ -43,8 +47,18 @@ It will show you a list of all entries in the BCD store.
   </li>
 </ol>
 
+
+
+<h2>Before and After</h2>
+<p><b>Before</b></p>
+  <img width="1691" height="649" alt="797023060_1622964012881391_1634266387993063110_n" src="https://github.com/user-attachments/assets/cd5883ea-d455-42e6-a01d-da2ddadd8a62" />
+<p><b>After</b></p>
+  <img width="1730" height="655" alt="798414015_1602521284901019_56685634989817680_n" src="https://github.com/user-attachments/assets/71847a16-955e-4784-b67e-d3a81abfedb1" />
+
+
+
 <hr>
 <h2>Reference Used</h2>
-<a href="https://izzylaif.com/en/clear-up-bios-boot-menu-entries/">Clear up BIOS boot menu entries</a>
+  <a href="https://izzylaif.com/en/clear-up-bios-boot-menu-entries/">Clear up BIOS boot menu entries</a>
 <br>
-<a href="https://www.youtube.com/watch?v=255ltqk7xDM">Remove old EFI entries from Boot Menu</a>
+  <a href="https://www.youtube.com/watch?v=255ltqk7xDM">Remove old EFI entries from Boot Menu</a>
