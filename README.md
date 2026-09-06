@@ -4,10 +4,9 @@
 <p>
   A few weeks ago I was fiddling around with a bunch of Linux distro
   installed on my external SSD (namely: Ubuntu, Debian and Fedora), 
-  where each of the distros is being shared across the single SSD (multi-boot),
-  which I tried out on my main and test laptop, but obviously it's for testing
-  or experiment purpose only, so I reverted back to Windows 11. The problem is, 
-  the old boot entries still shows up in the boot menu.
+  each of the distro's partition is shared across with other distro on the single SSD (multi-boot),
+  which I tried out on my main and test laptop, but it's for testing or experiment purpose only, 
+  so I reverted back to Windows 11. The problem is, the old boot entries still shows up in the boot menu.
 </p>
 
 <h2>Why it happens?</h2>
