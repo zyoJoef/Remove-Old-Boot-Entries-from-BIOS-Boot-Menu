@@ -59,6 +59,6 @@ It will show you a list of all entries in the BCD store.
 
 <hr>
 <h2>Reference Used</h2>
-  <a href="https://izzylaif.com/en/clear-up-bios-boot-menu-entries/">Clear up BIOS boot menu entries</a>
+  <a href="https://izzylaif.com/en/clear-up-bios-boot-menu-entries/">Clear up BIOS boot menu entries | Izzy Laif </a>
 <br>
   <a href="https://www.youtube.com/watch?v=255ltqk7xDM">Remove old EFI entries from Boot Menu</a>
